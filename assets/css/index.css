@@ -4,18 +4,21 @@
     font-size: 30px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-image: url("/assets/images/background.jpeg");
+    
 }
 
 .header {
 background-color: teal;
 color: black; 
 padding: 30px;
+text-align: center;
 }
 
 .footer {
     background-color: teal;
     padding: 18px;
     color: black;
+    text-align: center;
 }
 
 .navbar {
