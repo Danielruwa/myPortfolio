@@ -17,3 +17,8 @@ padding: 30px;
     padding: 18px;
     color: black;
 }
+
+.navbar {
+    background-color: rgb(43, 43, 43);
+    padding: 15px;
+}
