@@ -1,0 +1,15 @@
+
+.body {
+    background-image: url("/assets/images/photo-1566305977571-5666677c6e98.avif");
+    color: black;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header {
+background-color: black;
+}
+
+.footer {
+    background-color: black;
+}
