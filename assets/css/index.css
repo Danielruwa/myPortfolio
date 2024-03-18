@@ -8,6 +8,8 @@
 
 .header {
 background-color: teal;
+color: black; 
+padding: 30px;
 }
 
 .footer {
