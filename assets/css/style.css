@@ -2,26 +2,30 @@
 .body {
     color: black;
     font-size: 30px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     background-image: url("/assets/images/background.jpeg");
+    text-align: center;
     
 }
 
 .header {
-background-color: teal;
-color: black; 
+background-color: black;
+color: white; 
 padding: 30px;
 text-align: center;
 }
 
 .footer {
-    background-color: teal;
+    background-color: black;
     padding: 18px;
-    color: black;
+    color: whitesmoke;
     text-align: center;
 }
 
 .navbar {
     background-color: rgb(43, 43, 43);
     padding: 15px;
+    background-image: url(/assets/images/navbg.jpeg) ;
+    font-size: 20px; 
+    
 }
